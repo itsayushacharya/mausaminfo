@@ -144,7 +144,9 @@ export default function Home() {
           content="Real-time weather metrics for cities across Nepal"
 
         />
+        <link rel="icon" type="image/png" href="https://uxwing.com/wp-content/themes/uxwing/download/weather/weather-icon.png"></link>
       </Head>
+
 
       <div className="container">
         <div className="weather-app">
